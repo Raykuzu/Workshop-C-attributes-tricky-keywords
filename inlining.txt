@@ -1,0 +1,7 @@
+Inlining is an optimization principle allowing you to replace calls to a function
+with its content. The compiler does this naturally when it considers that it
+optimizes the code. Sometimes we can force the compiler to inline a function or
+force it not to inline (see attributes). Inlining allows optimization since it
+removes the call to a function however a bad inlining can enormously weigh down
+a binary. A function must be inline if it is called in a few different places
+and / or if it is made up of very few lines (system function return check function, etc).

@@ -1,0 +1,22 @@
+Welcome to C tricks and forgotten things workshop. I advise to start with attributes
+but you do as you want.
+
+I only did part of the attributes, there are lots of others, if you liked don't hesitate to go see the rest yourself:
+    - for functions: https://gcc.gnu.org/onlinedocs/gcc-4.7.2/gcc/Function-Attributes.html (I advise nonnull, hot, cold, visibility, leaf, nothrow)
+    - for types: https://gcc.gnu.org/onlinedocs/gcc-4.7.2/gcc/Type-Attributes.html#Type-Attributes
+    - for variables: https://gcc.gnu.org/onlinedocs/gcc-4.7.2/gcc/Variable-Attributes.html#Variable-Attributes
+
+For the keyword, I chose the ones we didn't see at Epitech.
+
+The system part in keywords is called like that because they have system syntax with
+the underscore but it's not more difficult or other.
+
+Some keywords and attributes do the same or similar, often due to the fact that
+we are on an advanced version of C but the corresponding keywords was not always there.
+
+For the format, everything is in the header of each file.
+
+There is a inlining.txt file at root it explain the concept of inlining,
+it will be necessary to understand it for certain things in the workshop.
+
+GL&HF
