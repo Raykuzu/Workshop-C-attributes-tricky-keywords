@@ -1,1 +1,1 @@
-# Introduction-C-attributes-tricky-keywords
+# Workshop-C-attributes-tricky-keywords
