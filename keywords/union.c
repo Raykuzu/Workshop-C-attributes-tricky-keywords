@@ -2,7 +2,7 @@
 // Created by raykuzu on 20/03/2020.
 // Targets: nothing
 // Effects: special needs/optimization
-// Union keyword declare a union in the same way while defining a structure.
+// Union keyword declare a union in the same way struct define a structure.
 // This allow to have a variable which can be of different types.
 // You can use one member at a time, because they share the same memory
 //
