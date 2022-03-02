@@ -4,7 +4,7 @@
 // Effects: special needs
 // Extern keyword extends visibility of the target
 // By default, the compiler set extern on all functions
-// For variables, it's declaration, not definition. It permit too get a variable
+// For variables, it's declaration, not definition. It permit to get a variable
 // in another block (shared library, ...)
 //
 
