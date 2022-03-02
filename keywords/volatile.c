@@ -20,8 +20,8 @@ int main() {
     }
 
     while (a2 == 0) {
-        // inf loop but compiler will check every time so if it's modify by hardware
-        // it will the loop as expected
+        // inf loop but compiler will check every time so if it's modify by hardware (a2 value become 1)
+        // it will exit the loop as expected
     }
 
     // It can be useful too if you do some assignment which must be done in
