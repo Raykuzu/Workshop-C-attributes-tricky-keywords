@@ -2,7 +2,8 @@
 // Created by raykuzu on 19/03/2020.
 // Targets: functions, variables, types
 // Effects: clean code/trigger warning if necessary
-// The attribute constructor permit to a function to be called before main
+// The attribute deprecated allow to make a smooth transition between 2 not
+// backward compatible functions/variables/types
 //
 
 
