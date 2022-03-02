@@ -14,7 +14,7 @@ int main() {
     volatile int a2 = 0; // variable that can be modify by some hardware
 
     // In a loop like that the compiler can say hum I see the code, the variable will
-    // be never change I will check once and go inf loop
+    // never change I will check once and go inf loop
     while (a == 0) {
         // inf loop
     }
