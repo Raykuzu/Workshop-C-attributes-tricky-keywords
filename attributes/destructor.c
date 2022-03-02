@@ -2,7 +2,7 @@
 // Created by raykuzu on 19/03/2020.
 // Targets: functions
 // Effects: special needs
-// The attribute constructor permit to a function to be called before main
+// The attribute destructor permit to a function to be called after main
 //
 
 #include <stdio.h>
