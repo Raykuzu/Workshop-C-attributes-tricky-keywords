@@ -14,7 +14,7 @@ union databag {
 };
 
 // Union have the size of the biggest member (here 25 for str)
-// -> care to haven't a union with an huge member and the other little
+// -> care to not have an union with an huge member and the other little
 // unless you are using the biggest 3/4 time because it's a waste of memory
 // Ex:
 // union databag {
