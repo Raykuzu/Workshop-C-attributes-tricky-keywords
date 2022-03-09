@@ -10,6 +10,6 @@
 
 int main()
 {
-    printf("World\n");
+    printf("Wor");
     return (0);
 }
