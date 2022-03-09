@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "examples-01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examples-01-Debug-9e4b54d92bc02fdb499e.json",
+					"name" : "examples-01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examples-02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examples-02-Debug-42292f8ed31f43b552b0.json",
+					"name" : "examples-02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examples-03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examples-03-Debug-40b80531fc629d9de97e.json",
+					"name" : "examples-03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examples-04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examples-04-Debug-c1fb3f4c3170529b4553.json",
+					"name" : "examples-04",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/raykuzu/tmp/Workshop-C-attributes-tricky-keywords/examples/cmake-build-debug",
+		"source" : "/home/raykuzu/tmp/Workshop-C-attributes-tricky-keywords/examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
